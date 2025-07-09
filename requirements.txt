@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+gspread
+oauth2client
+matplotlib
+pydeck
+pytz
+openpyxl
+altair
+streamlit-option-menu
+paho-mqtt
